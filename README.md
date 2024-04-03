@@ -14,7 +14,7 @@
 ## 실행 방법
 
 이 프로젝트의 `.ipynb` 파일은 Google Colab에서 실행할 수 있습니다. 아래 링크를 클릭하여 Colab에서 직접 실행해 보세요.
-(x)Visualstudio
+(x)Visualstudio.
 [Google Colab](https://colab.research.google.com/)
 
 
