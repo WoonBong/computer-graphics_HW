@@ -26,5 +26,5 @@
 ### 스크린샷
 프로젝트의 실행 결과를 보여주는 스크린샷은 다음과 같습니다:
 
-![Unshaded](<img width="385" alt="Unshaded" src="https://github.com/WoonBong/computer-graphics_HW/assets/84709612/60ba199c-e535-45f9-b65c-48b8dda96506">)
+![Unshaded](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/60ba199c-e535-45f9-b65c-48b8dda96506)
 
