@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
     glutInitWindowSize(512, 512);
     glutInitWindowPosition(100, 100);
     glutCreateWindow("Unshaded");
-    generateSphere(1.0, 32, 16);
+    generateSphere(2.0, 32, 16);
 
     init();
     glutDisplayFunc(display);
