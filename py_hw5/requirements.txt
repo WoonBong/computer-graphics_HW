@@ -1,5 +1,5 @@
 conda create -n pyopengl python=3.8 -y
 activate pyopengl
-numpy == 1.24.4
-glfw == 2.7.0
-PyOpemGL == 3.1.6
+numpy==1.24.4
+glfw==2.7.0
+PyOpemGL==3.1.6
