@@ -27,3 +27,18 @@
 프로젝트의 실행 결과를 보여주는 스크린샷은 다음과 같습니다:
 
 ![Unshaded](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/007f139e-e2cc-40f5-bf45-f9901c68287a)
+
+
+## Homework 5 (1: Immediate mode
+![immediate_mode](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/cda516f2-ea83-44ed-af72-db18b0ebb495)
+
+FPS:0.29
+![immediate_mode_fps](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/4288693d-2e8f-43b1-8ba0-c042375ef2f0)
+
+## Homework 5 (2: Vertex array mode
+![vertex_mode](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/e9c73d75-d05e-47a9-8361-c2385c8946c4)
+
+FPS:232
+![vertex_mode_fps](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/4c667c88-a520-4d08-913e-b112b0f6a003)
+### HW5_실행 방법
+Immediate Mode.py or Vertex Array mode.py 통해 실행됩니다.
