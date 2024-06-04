@@ -41,4 +41,5 @@ FPS:0.20
 FPS:232
 ![vertex_mode_fps](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/4c667c88-a520-4d08-913e-b112b0f6a003)
 ### HW5_실행 방법
+이번 과제는 (conda)python=3.8 환경에서 실행하였습니다.
 Immediate Mode.py or Vertex Array mode.py 통해 실행됩니다.
