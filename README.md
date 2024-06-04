@@ -32,7 +32,7 @@
 ## Homework 5 (1: Immediate mode
 ![immediate_mode](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/cda516f2-ea83-44ed-af72-db18b0ebb495)
 
-FPS:0.29
+FPS:0.20
 ![immediate_mode_fps](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/4288693d-2e8f-43b1-8ba0-c042375ef2f0)
 
 ## Homework 5 (2: Vertex array mode
