@@ -30,10 +30,10 @@
 
 
 ## Homework 5 (1: Immediate mode
-![immediate_mode](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/cda516f2-ea83-44ed-af72-db18b0ebb495)
+![immediate_mode](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/5c24be9f-85c6-4049-b2ea-ea0bdf893ea1)
 
 FPS:0.20
-![immediate_mode_fps](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/4288693d-2e8f-43b1-8ba0-c042375ef2f0)
+![immediate_mode_fps](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/e265a3dc-2521-4c23-a5c9-6d8319e550c0)
 
 ## Homework 5 (2: Vertex array mode
 ![vertex_mode](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/a7449d0f-0909-48ba-8296-bc54d96b0210)
