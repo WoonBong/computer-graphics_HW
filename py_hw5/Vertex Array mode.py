@@ -5,7 +5,7 @@ from OpenGL.GLUT import *
 from OpenGL.GLU import *
 import glfw
 from load_obj import load_obj
-
+ 
 window_width, window_height = 512, 512
 
 gTotalTimeElapsed = 0
