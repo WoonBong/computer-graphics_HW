@@ -36,10 +36,11 @@ FPS:0.20
 ![immediate_mode_fps](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/4288693d-2e8f-43b1-8ba0-c042375ef2f0)
 
 ## Homework 5 (2: Vertex array mode
-![vertex_mode](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/e9c73d75-d05e-47a9-8361-c2385c8946c4)
+![vertex_mode](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/a7449d0f-0909-48ba-8296-bc54d96b0210)
 
-FPS:232
-![vertex_mode_fps](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/4c667c88-a520-4d08-913e-b112b0f6a003)
+FPS:26639
+![vertex_mode_fps](https://github.com/WoonBong/computer-graphics_HW/assets/84709612/10b946ff-e989-4c2b-acfb-256143975a8a)
+
 ### HW5_실행 방법
 이번 과제는 (conda)python=3.8 환경에서 실행하였습니다.
 Immediate Mode.py or Vertex Array mode.py 통해 실행됩니다.
